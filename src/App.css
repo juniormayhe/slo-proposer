@@ -1,0 +1,10 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: #fafafa;
+}
+td {
+  white-space: nowrap;
+}
+.teste {
+  background-image: url("./funnel.png");
+}
